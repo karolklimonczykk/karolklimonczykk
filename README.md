@@ -14,7 +14,7 @@
   - [lorem]
 - <b>Data analysis/computational engineering (RStudio)</b>
   - [lorem]
-- <b>Analyze data / develop algorithms / create mathematical models (Maple)</b>
+- <b>Maple ( Analyze data / develop algorithms / create mathematical models )</b>
   - [lorem]
 
 <h2> 🤳 Connect with me:</h2>
