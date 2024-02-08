@@ -14,7 +14,7 @@
   - [Finite element method (FEM))](https://www.kk.com)
 - <b>Data analysis/computational engineering (RStudio)</b>
   - [lorem]
-- <b>Analyze data/ develop algorithms / create models (Maple)</b>
+- <b>Analyze data / develop algorithms / create mathematical models (Maple)</b>
   - [lorem]
 
 <h2> 🤳 Connect with me:</h2>
