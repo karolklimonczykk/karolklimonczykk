@@ -7,9 +7,9 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [lorem]
 - <b>Websites (HTML5/CSS/JavaScript)</b>
-  -[lorem]
+  - [lorem]
 - <b>C++</b>
-  -[lorem]
+  - [lorem]
 - <b>Python</b>
   - [Finite element method (FEM))](https://www.kk.com)
 - <b>Data analysis/computational engineering (RStudio)</b>
