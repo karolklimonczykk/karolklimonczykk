@@ -10,7 +10,7 @@
   - [lorem]
 - <b>Python</b>
   - [Finite element method (FEM))](https://www.kk.com)
-- <b>HTML5/CSS3/JavaScript (websites)</b>
+- <b>Websites (HTML5/CSS3/JavaScript)</b>
   - [lorem]
 - <b>RStudio (data analysis/computational engineering)</b>
   - [lorem]
