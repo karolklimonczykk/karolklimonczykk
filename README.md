@@ -6,7 +6,7 @@
   - [lorem]
 - <b>C# (.NET Desktop Applications)</b>
   - [lorem]
-- <b>Websites (HTML5/CSS/JavaScript)</b>
+- <b>Websites (HTML5/CSS/JS)</b>
   - [lorem]
 - <b>C++</b>
   - [lorem]
