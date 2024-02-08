@@ -13,7 +13,7 @@
 - <b>Python</b>
   - [Finite element method (FEM))](https://www.kk.com)
 - <b>Data analysis/computational engineering (RStudio)</b>
-- [lorem]
+  - [lorem]
 - <b>Analyze data/ develop algorithms / create models (Maple)</b>
   - [lorem]
 
