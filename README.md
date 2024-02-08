@@ -6,12 +6,12 @@
   - [lorem]
 - <b>C# (.NET Desktop Applications)</b>
   - [lorem]
-- <b>Websites (HTML5/CSS/JS)</b>
-  - [lorem]
 - <b>C++</b>
   - [lorem]
 - <b>Python</b>
   - [Finite element method (FEM))](https://www.kk.com)
+- <b>Websites (HTML5/CSS/JS)</b>
+  - [lorem]
 - <b>Data analysis/computational engineering (RStudio)</b>
   - [lorem]
 - <b>Analyze data / develop algorithms / create mathematical models (Maple)</b>
