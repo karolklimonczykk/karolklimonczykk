@@ -3,19 +3,19 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - 
+  - [lorem]
 - <b>C# (.NET Desktop Applications)</b>
-  - 
+  - [lorem]
 - <b>Websites (HTML5/CSS/JavaScript)</b>
-  -
+  -[lorem]
 - <b>C++</b>
-  -
+  -[lorem]
 - <b>Python</b>
   - [Finite element method (FEM))](https://www.kk.com)
 - <b>Data analysis/computational engineering (RStudio)</b>
-- 
+- [lorem]
 - <b>Analyze data/ develop algorithms / create models (Maple)</b>
-  - 
+  - [lorem]
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -24,17 +24,3 @@
 
 [email]: mailto:karol.klimonczyk@gmail.com
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
