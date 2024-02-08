@@ -10,11 +10,11 @@
   - [lorem]
 - <b>Python</b>
   - [Finite element method (FEM))](https://www.kk.com)
-- <b>Websites (HTML5/CSS/JS)</b>
+- <b>HTML5/CSS3/JavaScript (websites)</b>
   - [lorem]
-- <b>Data analysis/computational engineering (RStudio)</b>
+- <b>RStudio (data analysis/computational engineering)</b>
   - [lorem]
-- <b>Maple ( Analyze data / develop algorithms / create mathematical models )</b>
+- <b>Maple (analyze data / develop algorithms / create mathematical models)</b>
   - [lorem]
 
 <h2> 🤳 Connect with me:</h2>
