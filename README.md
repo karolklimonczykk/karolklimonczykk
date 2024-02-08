@@ -9,7 +9,7 @@
 - <b>C++</b>
   - [lorem]
 - <b>Python</b>
-  - [Finite element method (FEM))](https://www.kk.com)
+  - [Finite element method (FEM))](https://github.com/karolklimonczykk/Python_FEM)
 - <b>Websites (HTML5/CSS3/JavaScript)</b>
   - [lorem]
 - <b>RStudio (data analysis/computational engineering)</b>
