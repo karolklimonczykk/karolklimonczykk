@@ -19,7 +19,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="KarolKlimonczyk | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg" />][email]
+[<img align="left" alt="KarolKlimonczyk | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlemessages.svg" />][email]
 
 
 [email]: mailto:karol.klimonczyk@gmail.com
