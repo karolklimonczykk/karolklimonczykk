@@ -19,7 +19,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<a href="[email]">💬</a>]
+<a href="mailto:karol.klimonczyk@gmail.com">💬</a>
 
 
 [email]: mailto:karol.klimonczyk@gmail.com
