@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [lorem]
+  - [Tic-Tac-Toe](https://github.com/karolklimonczykk/Tic-Tac-Toe)
 - <b>C# (.NET Desktop Applications)</b>
   - [lorem]
 - <b>C++</b>
