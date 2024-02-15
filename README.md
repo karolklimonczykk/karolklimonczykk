@@ -4,6 +4,7 @@
 
 - <b>Java</b>
   - [Tic-Tac-Toe](https://github.com/karolklimonczykk/Tic-Tac-Toe)
+  - [Desing Patterns (structural, behavioral)](https://github.com/karolklimonczykk/Design-Patterns)
 - <b>C# (.NET Desktop Applications)</b>
   - [lorem]
 - <b>C++</b>
