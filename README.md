@@ -5,6 +5,7 @@
 - <b>Java</b>
   - [Tic-Tac-Toe](https://github.com/karolklimonczykk/Tic-Tac-Toe)
   - [Desing Patterns (structural, behavioral)](https://github.com/karolklimonczykk/Design-Patterns)
+  - [Generic classes](https://github.com/karolklimonczykk/Generic-classes)
 - <b>C# (.NET Desktop Applications)</b>
   - [lorem]
 - <b>C++</b>
