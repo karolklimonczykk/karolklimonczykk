@@ -7,6 +7,7 @@
   - [Desing Patterns](https://github.com/karolklimonczykk/Design-Patterns)
   - [Generic classes](https://github.com/karolklimonczykk/Generic-classes)
   - [2D graphics](https://github.com/karolklimonczykk/2D-graphics)
+  - [Polymorphism](https://github.com/karolklimonczykk/Polymorphism/tree/main)
 - <b>C# (.NET Desktop Applications)</b>
   - [lorem]
 - <b>C++</b>
