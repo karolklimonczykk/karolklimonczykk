@@ -6,7 +6,7 @@
   - [Tic-Tac-Toe](https://github.com/karolklimonczykk/Tic-Tac-Toe)
   - [Desing Patterns](https://github.com/karolklimonczykk/Design-Patterns)
   - [Generic classes](https://github.com/karolklimonczykk/Generic-classes)
-  - [2D graphic](https://github.com/karolklimonczykk/2D-graphics)
+  - [2D graphics](https://github.com/karolklimonczykk/2D-graphics)
 - <b>C# (.NET Desktop Applications)</b>
   - [lorem]
 - <b>C++</b>
