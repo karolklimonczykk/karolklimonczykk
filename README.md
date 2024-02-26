@@ -16,7 +16,7 @@
   - [Finite element method (FEM))](https://github.com/karolklimonczykk/Python_FEM)
 - <b>Websites (HTML5/CSS3/JavaScript)</b>
   - [lorem]
-- <b>RStudio (data analysis/computational engineering)</b>
+- <b>R (data analysis/computational engineering)</b>
   - [lorem]
 - <b>Maple (analyze data / develop algorithms / create mathematical models)</b>
   - [lorem]
