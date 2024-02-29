@@ -4,12 +4,12 @@
 
 - <b>Java</b>
   - [Tic-Tac-Toe](https://github.com/karolklimonczykk/Tic-Tac-Toe)
-  - [Desing Patterns](https://github.com/karolklimonczykk/Design-Patterns)
+  - [Desing patterns](https://github.com/karolklimonczykk/Design-Patterns)
   - [Generic classes](https://github.com/karolklimonczykk/Generic-classes)
   - [2D graphics](https://github.com/karolklimonczykk/2D-graphics)
   - [Polymorphism](https://github.com/karolklimonczykk/Polymorphism/tree/main)
 - <b>C# (.NET Desktop Applications)</b>
-  - [lorem]
+  - [Graph Algorithms](https://github.com/karolklimonczykk/Graphs)
 - <b>C++</b>
   - [lorem]
 - <b>Python</b>
