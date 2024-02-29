@@ -9,9 +9,9 @@
   - [2D graphics](https://github.com/karolklimonczykk/2D-graphics)
   - [Polymorphism](https://github.com/karolklimonczykk/Polymorphism/tree/main)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Graph Algorithms](https://github.com/karolklimonczykk/Graphs)
-- <b>C++</b>
   - [lorem]
+- <b>C++</b>
+  - [Graph Algorithms](https://github.com/karolklimonczykk/Graphs)
 - <b>Python</b>
   - [Finite element method (FEM))](https://github.com/karolklimonczykk/Python_FEM)
 - <b>Websites (HTML5/CSS3/JavaScript)</b>
