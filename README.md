@@ -11,6 +11,7 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [lorem]
 - <b>C++</b>
+  - [Tree data structure](https://github.com/karolklimonczykk/Graphs)
   - [Graph Algorithms](https://github.com/karolklimonczykk/Graphs)
 - <b>Python</b>
   - [Finite element method (FEM))](https://github.com/karolklimonczykk/Python_FEM)
