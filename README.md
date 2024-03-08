@@ -14,7 +14,7 @@
   - [Tree data structure](https://github.com/karolklimonczykk/Tree-data-structure)
   - [Graph Algorithms](https://github.com/karolklimonczykk/Graphs)
 - <b>Python</b>
-  - [Finite element method (FEM))](https://github.com/karolklimonczykk/Python_FEM)
+  - [Finite element method (FEM)](https://github.com/karolklimonczykk/Python_FEM)
 - <b>Websites (HTML5/CSS3/JavaScript)</b>
   - [lorem]
 - <b>R (data analysis/computational engineering)</b>
