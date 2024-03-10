@@ -9,10 +9,10 @@
   - [2D graphics](https://github.com/karolklimonczykk/2D-graphics)
   - [Polymorphism](https://github.com/karolklimonczykk/Polymorphism/tree/main)
 - <b>C# (.NET Desktop Applications)</b>
-  - [lorem]
+  - [Intagrated program](https://github.com/karolklimonczykk/Intagrated-Program)
 - <b>C++</b>
   - [Tree data structure](https://github.com/karolklimonczykk/Tree-data-structure)
-  - [Graph Algorithms](https://github.com/karolklimonczykk/Graphs)
+  - [Graph algorithms](https://github.com/karolklimonczykk/Graphs)
 - <b>Python</b>
   - [Finite element method (FEM)](https://github.com/karolklimonczykk/Python_FEM)
 - <b>Websites (HTML5/CSS3/JavaScript)</b>
