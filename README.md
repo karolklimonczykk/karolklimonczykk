@@ -17,8 +17,8 @@
   - [Finite element method (FEM)](https://github.com/karolklimonczykk/Python_FEM)
 - <b>Websites (HTML5/CSS3/JS)</b>
   - []
-- <b>Maple (analyze data / develop algorithms / create mathematical models)</b>
-  - []
+- <b>Maple (mechanical engineering / mathematical models)</b>
+  - [Derving differential equations - Lagrangian mechanics](https://github.com/karolklimonczykk/Deriving-differential-equations)
 
 <h2> 🤳 Connect with me:</h2>
 
