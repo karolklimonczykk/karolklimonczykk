@@ -16,9 +16,9 @@
 - <b>Python</b>
   - [Finite element method (FEM)](https://github.com/karolklimonczykk/Python_FEM)
 - <b>Websites (HTML5/CSS3/JS)</b>
-  - [lorem]
+  - []
 - <b>Maple (analyze data / develop algorithms / create mathematical models)</b>
-  - [lorem]
+  - []
 
 <h2> 🤳 Connect with me:</h2>
 
