@@ -19,7 +19,7 @@
   - [in progress]
 - <b>Maple (mechanical engineering / mathematical models)</b>
   - [Derving differential equations - Lagrangian mechanics](https://github.com/karolklimonczykk/Deriving-differential-equations)
-  - [Runge-Kutta method]
+  - [Runge-Kutta method](https://github.com/karolklimonczykk/Runge-Kutta-method)
 
 <h2> 🤳 Connect with me:</h2>
 
