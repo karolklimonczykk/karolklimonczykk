@@ -21,7 +21,7 @@
   - [Derving differential equations - Lagrangian mechanics](https://github.com/karolklimonczykk/Deriving-differential-equations)
      - [Deriving and solving equations of motion mechanical systems](https://github.com/karolklimonczykk/deriving-and-solving-equations-of-motion-mechanical-systems)
   - [Runge-Kutta method](https://github.com/karolklimonczykk/Runge-Kutta-method)
-
+  - [Partial differential equations](https://github.com/karolklimonczykk/Partial-differential-equations)
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:karol.klimonczyk@gmail.com">💬</a>
