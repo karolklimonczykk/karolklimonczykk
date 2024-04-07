@@ -22,6 +22,7 @@
      - [Deriving and solving equations of motion mechanical systems](https://github.com/karolklimonczykk/deriving-and-solving-equations-of-motion-mechanical-systems)
   - [Runge-Kutta method](https://github.com/karolklimonczykk/Runge-Kutta-method)
   - [Partial differential equations](https://github.com/karolklimonczykk/Partial-differential-equations)
+  - [Meshless methods based on collocation with radial basis functions (RBFs)](https://github.com/karolklimonczykk/Meshless-methods-based-on-RBFs)
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:karol.klimonczyk@gmail.com">💬</a>
