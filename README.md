@@ -23,7 +23,7 @@
   - [Runge-Kutta method](https://github.com/karolklimonczykk/Runge-Kutta-method)
   - [Partial differential equations](https://github.com/karolklimonczykk/Partial-differential-equations)
   - [Meshless methods based on collocation with radial basis functions (RBFs)](https://github.com/karolklimonczykk/Meshless-methods-based-on-RBFs)
-  - [Basics of FEM)](https://github.com/karolklimonczykk/FEM_basics)
+  - [Finite element method (FEM)](https://github.com/karolklimonczykk/FEM_basics)
     - [Static analysis of rod structures using the Finite Element Method (FEM)]()
 <h2> 🤳 Connect with me:</h2>
 
