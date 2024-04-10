@@ -24,7 +24,7 @@
   - [Partial differential equations](https://github.com/karolklimonczykk/Partial-differential-equations)
   - [Meshless methods based on collocation with radial basis functions (RBFs)](https://github.com/karolklimonczykk/Meshless-methods-based-on-RBFs)
   - [Finite element method (FEM)](https://github.com/karolklimonczykk/FEM_basics)
-    - [Static analysis of rod structures using the Finite Element Method (FEM)]()
+    - [Static analysis of rod structures using the Finite Element Method (FEM)](https://github.com/karolklimonczykk/FEM_static)
 <h2> 🤳 Connect with me:</h2>
 
 <a href="mailto:karol.klimonczyk@gmail.com">💬</a>
