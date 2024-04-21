@@ -16,7 +16,8 @@
 - <b>Python</b>
   - [Finite element method (FEM)](https://github.com/karolklimonczykk/Python_FEM)
 - <b>Websites (HTML5/CSS3/JS)</b>
-  - [in progress]
+  - [Boat cruises](https://github.com/karolklimonczykk/Boat_travel_website)
+  - [Running]()
 - <b>Maple (mechanical engineering / mathematical models)</b>
   - [Derving differential equations - Lagrangian mechanics](https://github.com/karolklimonczykk/Deriving-differential-equations)
      - [Deriving and solving equations of motion mechanical systems](https://github.com/karolklimonczykk/deriving-and-solving-equations-of-motion-mechanical-systems)
