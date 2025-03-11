@@ -1,7 +1,8 @@
 <h1>Hi, I'm Karol! <br/><a href="[https://github.com/joshmadakor1](https://github.com/karolklimonczykk)">Computer Science Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+- <b>FullStack</b>
+  - [To-do-list & Posts from API](https://github.com/karolklimonczykk/Tic-Tac-Toe](https://github.com/karolklimonczykk/To-do-list-Posts-App-from-API)
 - <b>Java</b>
   - [Tic-Tac-Toe](https://github.com/karolklimonczykk/Tic-Tac-Toe)
   - [Desing patterns](https://github.com/karolklimonczykk/Design-Patterns)
@@ -15,7 +16,7 @@
   - [Graph algorithms](https://github.com/karolklimonczykk/Graphs)
 - <b>Python</b>
   - [Finite element method (FEM)](https://github.com/karolklimonczykk/Python_FEM)
-- <b>Websites (HTML5/CSS3/JS)</b>
+- <b>FrontEnd (HTML5/CSS3/JS)</b>
   - [Boat cruises](https://github.com/karolklimonczykk/Boat_travel_website)
 - <b>Maple (mechanical engineering / mathematical models)</b>
   - [Derving differential equations - Lagrangian mechanics](https://github.com/karolklimonczykk/Deriving-differential-equations)
