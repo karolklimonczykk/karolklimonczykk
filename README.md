@@ -52,7 +52,7 @@
     </li>
   </ul>
 
-  <h2> 🤳 Connect with me:</h2>
+  <h2> 🤳 Contact with me:</h2>
   <div class="contact">
     <a href="mailto:karol.klimonczyk@gmail.com">💬 Send me an email</a>
   </div>
