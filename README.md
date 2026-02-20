@@ -6,9 +6,10 @@
   <ul>
     <li><b>Full-stack</b>
       <ul>
-        <li><a href="https://github.com/karolklimonczykk/To-do-list-Posts-App-from-API">To-do-list & Posts from API</a></li>
+        <li><a href="https://github.com/karolklimonczykk/school-app">School-app (Engineering Thesis)</a></li>
         <li><a href="https://github.com/karolklimonczykk/Budget-app">Budget-app</a></li>
         <li><a href="https://github.com/karolklimonczykk/computer-appp">Computer-app (computer store)</a></li>
+        <li><a href="https://github.com/karolklimonczykk/To-do-list-Posts-App-from-API">To-do-list & Posts from API</a></li>
       </ul>
     </li>
     <li><b>Java</b>
